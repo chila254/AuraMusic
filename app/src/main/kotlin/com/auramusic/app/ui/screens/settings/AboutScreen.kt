@@ -69,7 +69,7 @@ fun AboutScreen(
         // App Name
         Text(
             text = "AURAMUSIC",
-            style = MaterialTheme.typography.headlineMedium,
+            style = MaterialTheme.typography.headlineLarge,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.onSurface
         )
